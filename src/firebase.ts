@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDeKE5u-A5-yvbmvVSJon_ehdLaOx9Byow",
+  apiKey: "AIza....",
   authDomain: "studypilot-ai-9965e.firebaseapp.com",
   projectId: "studypilot-ai-9965e",
   storageBucket: "studypilot-ai-9965e.firebasestorage.app",
