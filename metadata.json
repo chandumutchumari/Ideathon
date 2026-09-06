@@ -1,0 +1,6 @@
+{
+  "name": "StudyPilot AI",
+  "description": "A secure academic productivity workspace for college students with Firebase Auth, Cloud Firestore, and Gemini AI study tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
